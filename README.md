@@ -1,4 +1,4 @@
-# Search-Engine-Project-and-Homeworks
+# Information extraction and retrieval from textual data : Search-Engine-Project-and-Homeworks
 
 Information retrieval (IR) is the activity of obtaining information resources relevant to an information need
 from a collection of information resources. The collection is generally a set of documents from a single or several
